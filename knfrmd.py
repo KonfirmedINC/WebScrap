@@ -10,15 +10,17 @@ lists = soup.find_all('div', class_="bpro-listing-grid")
 
 with open('blackbusinessesincanada.csv', 'w', encoding='utf8', newline='') as f:
     thewriter = writer(f)
-    header = ['Title', 'Call', 'Map', 'Location']
+    header = ['Title2']
     thewriter.writerow(header)
 for list in lists:
-    title = list.find('div', class_="bpro-listing-grid-content")
-    call = list.find('a', class_="grind-number")
-    map = list.find('li',class_="show-loop-map-popup")
-    location = list.find('p', class_="bpro-grid-city")
-    info = [title, call, map, location]
-    thewriter.writerow(info)
+    # title = list.find('div', class_="bpro-listing-grid-content")
+    title2 = list.find('h3', title_="").text
+    # call = list.find('a', class_="grind-number")
+    # map = list.find('li', class_="show-loop-map-popup")
+    # location = list.find('p', class_="bpro-grid-city")
+    # info = [title, call, map, location]
+    info = [title2]
+    print(info)
 
 # for list in lists:
 #     title = list.find('div', class_="bpro-listing-grid-content").text.replace(' ', '')
