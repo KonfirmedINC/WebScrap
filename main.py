@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
+from csv import writer
 
 url = ("https://blackbusinessdirect.ca/listings/british-columbia/vancouver-2")
 page = requests.get(url)
@@ -9,6 +10,10 @@ soup = BeautifulSoup(page.content, 'html.parser')
 job = soup.find('div', class_='container-fluid item-list')
 container = soup.find_all('div', class_='row list-item mb-4 mx-3 mx-sm-0')[0]
 list_items = container.find_all('div', 'col-sm-7 px-sm-3 py-3 pt-sm-0 pl-sm-4')
+with open('blackbusinessesincanada.csv', 'w', encoding='utf8', newline='') as f:
+    thewriter = writer(f)
+    header = ['Company', 'Address', 'Tel', 'Url']
+    thewriter.writerow(header)
 for list_item in list_items:
 
     company_name = list_item.find('div', class_='flex-grow-1')
@@ -17,7 +22,8 @@ for list_item in list_items:
     contact = list_item.find('div', class_='tel')
     website = list_item.find('h4', class_='mb-2')
 info = [company_name.text.replace('\t',''), location.text.replace('\t',''), contact.text.replace('\t',''), website.a.get('href')]
-print(info)
+thewriter.writerow(info)
+# print(info)
 #     title = list.find('div', class_='')
 # print('''
 # Company Name: {company_name}
