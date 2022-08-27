@@ -12,16 +12,18 @@ for job_element in job_elements:
     location = job_element.find("div", class_="address flex-grow-1").text.replace('\t', '').replace('\n','').replace('BC', 'BC ').replace('604-', ' 604-').replace('(604', ' (604').replace('1-778', ' 1-778').replace('778', ' 778')
     industry = job_element.find("div", class_="cat-name-figure rounded p-2")
     website = job_element.find("a", class_="text-green").get('href')
-    header = ['Name','Description','Address','Url']
+    # header = ['Name','Description','Address','Url']
     telephone = soup.find("div", {"class": "tel"}).a.__getitem__('href')
-    info = [name, description, location, telephone, industry, website]
+    # info = [name, description, location, telephone, industry, website]
 
     print('*------------*')
-    print(name)
-    print(description)
-    print(location)
-    print(industry)
-    print(telephone)
+    print('Company name:', name)
+    print('Description:', description)
+    print('Location:', location)
+    print('Industry:', industry)
+    if telephone is not None:
+        print('Telephone:', telephone)
+    # print('Telephone:', telephone2)
     print('*------------*')
 
     # print(website)

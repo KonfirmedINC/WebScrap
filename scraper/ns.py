@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-url = ("https://blackbusinessdirect.ca/listings/newfoundland-and-labrador")
+url = ("https://blackbusinessdirect.ca/listings/nova-scotia")
 page = requests.get(url)
 soup = BeautifulSoup(page.content, 'html.parser')
 job = soup.find('div', class_='container-fluid item-list')
@@ -12,7 +12,7 @@ for job_element in job_elements:
     location = job_element.find("div", class_="address flex-grow-1").text.replace('\t', '').replace('\n','').replace('NLA1', 'NL A1').replace('4N5431', '4N5 431').replace('866', ' 866').replace('MBR0M', 'MB R0M').replace('204', ' 204').replace('1888', ' 1 888').replace('709', ' 709').replace('2R31 ', ' 2R3 1').replace('800-', ' 800-').replace('1X01  ', '1X0 1 ').replace('1204', '1 204')
     industry = job_element.find("span", class_="cat-name-figure rounded p-2").text.replace('&amp;', '&')
     # telephone2 = job_element.find("div", class_="tel").a.get('href')
-    telephone = soup.find("div", {"class": "tel"}).a.__getitem__('href')
+    telephone = job_element.find("div", {"class": "tel"}).a.__getitem__('href')
     # website = job_element.find("a", class_="text-green").get('href')
 
     # info = [name, description, location, telephone, industry]
@@ -24,5 +24,4 @@ for job_element in job_elements:
     print('Industry:', industry)
     if telephone is not None:
         print('Telephone:', telephone)
-    # print('Telephone:', telephone2)
     print('*------------*')

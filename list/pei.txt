@@ -1,7 +1,7 @@
 *------------*
-Wheelie Bin Doctors
-We specialize in pressure washing, cleaning, disinfecting, and deodorizing garbage & recycling bins.
-Charlottetown, PEI
-tel:+9023147747
-Automotive & Transportation
+Company name: Wheelie Bin Doctors
+Description: We specialize in pressure washing, cleaning, disinfecting, and deodorizing garbage & recycling bins.
+Location: Charlottetown, PEI
+Industry: Automotive & Transportation
+Telephone: 902-3147747
 *------------*
