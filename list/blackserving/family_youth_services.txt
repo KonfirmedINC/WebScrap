@@ -1,0 +1,280 @@
+1
+*------------*
+Company name:   Across Boundaries  
+Location:  51 Clarkson Ave., Toronto, Ontario, Canada, M6E 2T5 
+Category: 416-787-3007
+Telephone: 416-787-3007
+*------------*
+2
+*------------*
+Company name:   Afri-Can Food Basket  
+Location:  4929 Jane St., Toronto, Ontario, Canada, M3N 2K8 
+Category: 647-896-0641
+Telephone: 416-787-3007
+*------------*
+3
+*------------*
+Company name:   African Canadian Community Support Foundation  
+Location:  34 Sugarcane Ave., Brampton, Ontario, Canada, L6R3C7 
+Category: 416-658-5100
+Telephone: 416-787-3007
+*------------*
+4
+*------------*
+Company name:   Aset Group Consulting and Counselling Services  
+Location:  1315 Pickering Parkway, 3rd Floor, Pickering, Ontario, Canada, L1V 7G5 
+Category: 289-624-2330
+Telephone: 416-787-3007
+*------------*
+5
+*------------*
+Company name:   BLAC ​ (Black Legal Action Centre)  
+Location:  Suite 221 - 720 Spadina Avenue, Toronto, Ontario, Canada, M5S 2T9 
+Category: ​416-597-5831
+Telephone: 416-787-3007
+*------------*
+6
+*------------*
+Company name:   Black Business & Professional Association (BBPA)  
+Location:  180 Elm Street, Toronto, Ontario, Canada 
+Category: 416.504.4097
+Telephone: 416-787-3007
+*------------*
+7
+*------------*
+Company name:   Black Coalition for Aids Prevention (Black CAP)  
+Location:  20 Victoria St. 4th floor (Yonge St. & King St. E.), Toronto, Ontario, Canada, M5C 2N8 
+Category: (416) 977-9955
+Telephone: 416-787-3007
+*------------*
+8
+*------------*
+Company name:   Black Community Action Network (BCAN)  
+Location:  240 Superior Blvd. Suite #202, Mississauga, Ontario, Canada, L45T 2L2 
+Category: (416) 433-7715
+Telephone: 416-787-3007
+*------------*
+9
+*------------*
+Company name:   Black Creek Community Health Centre  
+Location:  1 York Gate Blvd., Toronto, Ontario, Canada, M3N 3A1 
+Category: (416) 246-2388
+Telephone: 416-787-3007
+*------------*
+10
+*------------*
+Company name:   Black Owned Toronto  
+Location:  Scarborough Town Centre, Scarborough, Ontario 
+Category: None
+Telephone: 416-787-3007
+*------------*
+11
+*------------*
+Company name:   Black Physicians of Tomorrow  
+Location:  Sarah McDonalds Place, Pickering, Ontario, Canada, L1V6X1 
+Category: 9054099162
+Telephone: 416-787-3007
+*------------*
+12
+*------------*
+Company name:   Black Youth Helpline  
+Location:  Toronto, Ontario, Canada 
+Category: 1-833-294-8650
+Telephone: 416-787-3007
+*------------*
+13
+*------------*
+Company name:   Black Youth in Transition  
+Location:  2972 Islington Ave., Toronto, Ontario, Canada, M9L2K6 
+Category: 000.000.0000
+Telephone: 416-787-3007
+*------------*
+14
+*------------*
+Company name:   CAfCan (Caribbean African Canadian Social Services)  
+Location:  995 Arrow Road (Finch Ave. W. & Weston Road), Toronto, Ontario, Canada, M9M 2Z5 
+Category: 416-740-1056
+Telephone: 416-787-3007
+*------------*
+15
+*------------*
+Company name:   CAMH - Substance Abuse Program for African Canadian and...  
+Location:  80 Workman Way, Toronto, Ontario, Canada, M6J 1H4 
+Category: 416-535-8501 *press 2*
+Telephone: 416-787-3007
+*------------*
+16
+*------------*
+Company name:   Canadian Black Community Development  
+Location:  25 Luella Cres., Brampton, Ontario, Canada, L7A3H8 
+Category: (416) 492-3000
+Telephone: 416-787-3007
+*------------*
+17
+*------------*
+Company name:   Careers Education Empowerment (CEE)  
+Location:  200 Consumers Rd, Toronto, Ontario, Canada, M2J 4R4 
+Category: (416) 492-3000
+Telephone: 416-787-3007
+*------------*
+18
+*------------*
+Company name:   Centre culturel de ressources francophone pour les comm...  
+Location:  2, County Court Blvd Suite 335, Brampton, Ontario, Canada, L6W 3W8 
+Category: 905-488-9181
+Telephone: 416-787-3007
+*------------*
+19
+*------------*
+Company name:   CHEERS(Creating Hope and Ensuring Excellent Roads to Su...  
+Location:  ​168 Bathurst Street, Toronto, Ontario, Canada, M5V 2R4 
+Category: 647-617-8036
+Telephone: 416-787-3007
+*------------*
+20
+*------------*
+Company name:   Child Development Resource Connection Peel (CDRCP)  
+Location:  #103 - 75 Watline Ave, Mississauga, Ontario, Canada, L4Z 3E5 
+Category: 905-890-9432
+Telephone: 416-787-3007
+*------------*
+1
+*------------*
+Company name:   Dixie Bloor Neighbourhood (Drop-in) Centre  
+Location:  3650 Dixie Road, Suite 103, Mississauga, Ontario, Canada, L4Y 3V9 
+Category: 905-629-1873
+Telephone: 905-629-1873
+*------------*
+2
+*------------*
+Company name:   Every Mind  
+Location:  85A Aventura Court, Mississauga, Ontario, Canada, L5T 2Y6 
+Category: 905-566-1883
+Telephone: 905-629-1873
+*------------*
+3
+*------------*
+Company name:   FAM Coaching & Consulting  
+Location:  Remote, London, Ontario, Canada 
+Category: (647) 819-9428
+Telephone: 905-629-1873
+*------------*
+4
+*------------*
+Company name:   Family Education Centre  
+Location:  4 Sir Lou Drive, Suite 104, Brampton, Ontario, Canada, L6T 3T6 
+Category: 647-549-5785
+Telephone: 905-629-1873
+*------------*
+5
+*------------*
+Company name:   Family Services of Peel  
+Location:  151 City Centre Dr., Ste 501, Mississauga, Ontario, Canada, L5B 1M7 
+Category: 905-453-5775
+Telephone: 905-629-1873
+*------------*
+6
+*------------*
+Company name:   Harriet Tubman Community Organization (HTCO)  
+Location:  1761 Sheppard Ave E., Toronto, Ontario, Canada 
+Category: 416-496-2042
+Telephone: 905-629-1873
+*------------*
+7
+*------------*
+Company name:   Help for Families Canada  
+Location:  #114- 8170 50 Street, Edmonton, Alberta, Canada, T6B 1E6 
+Category: 780-916-4357
+Telephone: 905-629-1873
+*------------*
+8
+*------------*
+Company name:   Ifarada: Centre for Excellence  
+Location:  1315 Pickering Parkway, 3rd Floor, 3RD FLOOR, Pickering, Ontario, Canada, L1V6G5 
+Category: 289-624-2330
+Telephone: 905-629-1873
+*------------*
+9
+*------------*
+Company name:   Liberation Therapy & Consulting - Mississauga  
+Location:  30A Kennedy Rd. Sth., Unit 101 – (services available in Toronto), Brampton, Ontario, Canada 
+Category: 416-451-4342
+Telephone: 905-629-1873
+*------------*
+10
+*------------*
+Company name:   Malton Black Development Association  
+Location:  2895 Derry Road. E., Suite 706, Mississauga, Ontario, Canada, L4T 1A6 
+Category: 905-677-0551
+Telephone: 905-629-1873
+*------------*
+11
+*------------*
+Company name:   Malton Neighbourhood Services: Malton Caribbean Seniors...  
+Location:  3540 Morning Star Drive, Malton (Malton Community Centre), Malton, Ontario, Canada 
+Category: 905-677-6270
+Telephone: 905-629-1873
+*------------*
+12
+*------------*
+Company name:   Markham African Caribbean Canadian Association (MACCA)|  
+Location:  505 Hood Rd |Unit 5 |, Markham, Ontario, Canada, L3R 5V6 
+Category: 905-946-9998
+Telephone: 905-629-1873
+*------------*
+13
+*------------*
+Company name:   Marsha L Hibbert - ​Registered Social Worker  
+Location:  Newmarket, Ontario, Canada 
+Category: 647-697-4210
+Telephone: 905-629-1873
+*------------*
+14
+*------------*
+Company name:   Moyo Health and Community Services  
+Location:  7700 Hurontario St #601, Brampton, Ontario, L6Y 4M3 
+Category: 905-361-0523
+Telephone: 905-629-1873
+*------------*
+15
+*------------*
+Company name:   NuChoice Counselling and Assessment Services Inc.  
+Location:  100 Consilium Place, Suite 200, Scarborough, Ontario, Canada, M1H 3E3 
+Category: 647-477-4000
+Telephone: 905-629-1873
+*------------*
+16
+*------------*
+Company name:   Parents of Black Children (PoBC)  
+Location:  5000 yonge street suite 1901, Toronto, Ontario, Canada, M5V 3C1 
+Category: None
+Telephone: 905-629-1873
+*------------*
+17
+*------------*
+Company name:   PEACH (Promoting Education and Community Health)  
+Location:  127 Eddystone Ave., North York, Ontario, Canada, M3N1H5 
+Category: 416-740-9593
+Telephone: 905-629-1873
+*------------*
+18
+*------------*
+Company name:   Raising Wonders  
+Location:  Hamilton, Ontario, Canada, L9C 4P9 
+Category: 2021
+Telephone: 905-629-1873
+*------------*
+19
+*------------*
+Company name:   Rapport Youth and Family Services  
+Location:  155 Clark Blvd., Unit 11, Brampton, Ontario, Canada, L6T 4G6 
+Category: 905-455-4100
+Telephone: 905-629-1873
+*------------*
+20
+*------------*
+Company name:   RITES for African-Canadian Youth  
+Location:  65 Wellesley Street E. (Wellesley & Church), Toronto, Ontario, Canada 
+Category: (416) 924-2100 ext. 246 / ext. 228
+Telephone: 905-629-1873
+*------------*
