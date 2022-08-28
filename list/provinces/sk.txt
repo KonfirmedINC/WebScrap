@@ -1,0 +1,36 @@
+*------------*
+Company name: Brighton Dental Centre
+Description: 
+Location: 147 Gibson Bend #95 - Saskatoon, SKS7V 0V2
+Industry: Health & Fitness
+*------------*
+*------------*
+Company name: Lakewood Dental
+Description: 
+Location: 411A Herold Ct - Saskatoon, SKS7V 0A7
+Industry: Health & Fitness
+*------------*
+*------------*
+Company name: Okiki Consulting- Bilingual Video Content Strategies (EN/FR)
+Description: I empower entrepreneurs to present their personal brands through video content strategy, videography
+Location: 711 Pezer Court - Saskatoon, SK
+Industry: Marketing & Creative
+*------------*
+*------------*
+Company name: Mount Royal Dental
+Description: Are you looking for a dental clinic in Saskatoon? At Mount Royal Dental, our dentist in Saskatoon pr
+Location: 1601A 29th St W - Saskatoon, SKS7L 0N6
+Industry: Health & Fitness
+*------------*
+*------------*
+Company name: Zebeth Media Solutions
+Description: I am a digital marketing consultant that focuses on website developer for small business owners and
+Location: 21 - 151 hanbidge cres - Regina, SKS4R 7C4306-4509822
+Industry: Marketing & Creative
+*------------*
+*------------*
+Company name: Verolingo Communications
+Description: Verolingo Communications is the combination of knowledge and experience in communication and transla
+Location: 83 Bain Cres - Saskatoon, SKS7K 6G3306-2204360
+Industry: Marketing & Creative
+*------------*

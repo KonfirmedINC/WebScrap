@@ -1,0 +1,154 @@
+*------------*
+Company name: Darn Yarn
+Description: 
+Location: 3-644 Portland St #329, Dartmouth - Halifax, NSB2W 6C4855-902-9276
+Industry: Marketing & Creative
+Telephone: tel:+855902-9276
+*------------*
+*------------*
+Company name: Language Trainers Canada
+Description: Tailormade Language Courses
+Location: 1959 Upper Water St Suite 1301 Tower 1 - Halifax, NSB3J 3N2289-272-0100
+Industry: Training & Education
+Telephone: tel:+289272-0100
+*------------*
+*------------*
+Company name: Lisa's Holistic Rehab & Neurofeedback
+Description: Providing cutting edge brain rehabilitation for all ages. Workshops: Brain basics, racism rehab.
+Location: 397 Bedford Hwy Suite 310 - Halifax, NSB3M 2L3902-580-7342
+Industry: Health & Fitness
+Telephone: tel:+902580-7342
+*------------*
+*------------*
+Company name: Sankofa Afrikan Gifts
+Description: We bring Afrika to the World through our beautiful Afrocentric products.
+Location: 57 Pembrooke Street - Queens, NSB2R 1L8901-414-1944
+Industry: Fashion & Retail
+Telephone: tel:+901414-1944
+*------------*
+*------------*
+Company name: Adams Photography
+Description: We specialize in business portraits, graduation, event photography, editorial & school portraits.
+Location: 1088 Cole Harbour Rd. Unit 5 - Halifax, NSB2W 1E6902-4340558
+Industry: Event & Entertainment
+Telephone: tel:+9024340558
+*------------*
+*------------*
+Company name: Halifax Black Film
+Description: We celebrate diversity within the black communities through films that educate, entertain & inspire 
+Location: 1531 Grafton St. Suite 101 - Halifax, NSB3J 2B9902-4418999
+Industry: Community Organization
+Telephone: tel:+9024418999
+*------------*
+*------------*
+Company name: My Easy Coast Experience
+Description: We are an event planning, marketing & content publishing brand aimed at telling the stories of new i
+Location: 578 Sackville Drive - Halifax, NSB4C 2S3902-4572740
+Industry: Event & Entertainment
+Telephone: tel:+9024572740
+*------------*
+*------------*
+Company name: East Coast Barbers
+Description: We are Atlantic Canada's most versatile & multicultural barbers & hairstylists, located in Bedford &
+Location: 1584 Robie Street - Halifax, NSB3H 3E6902-7899335
+Industry: Beauty
+Telephone: tel:+9027899335
+*------------*
+*------------*
+Company name: Kalisimbi Shop
+Description: We provide a large variety of superior quality beauty supplies & hair extensions, as well as skin ca
+Location: 56 Supreme Court - Halifax, NSB3N 2L4902-457 4507
+Industry: Beauty
+Telephone: tel:+902457 4507
+*------------*
+*------------*
+Company name: East Preston United
+Description: Our church is "Empowering People United By Christ"! Join us as we lift up the name of Jesus in all t
+Location: 206 Upper Partridge River Dr - Halifax, NSB2Z 1H3902-4351565
+Industry: Community Organization
+Telephone: tel:+9024351565
+*------------*
+*------------*
+Company name: New Horizons Baptist Church
+Description: We are a culturally diverse church committed to community, ministering to the whole person, listenin
+Location: 5457 Cornwallis St - Halifax, NSB3K 1B1902-4295573
+Industry: Community Organization
+Telephone: tel:+9024295573
+*------------*
+*------------*
+Company name: Word In Action Ministries
+Description: We provide & serve as a catalyst for all people to discover their purpose, potential & calling throu
+Location: 18 Tobermory Road - Halifax, NSB2W-6B2902-4064659
+Industry: Community Organization
+Telephone: tel:+9024064659
+*------------*
+*------------*
+Company name: Business is Jammin'
+Description: We are a province-wide charitable initiative that focuses on motivating Black youth by stressing the
+Location: 1660 Hollis St. Suite 910 - Halifax, NSB3J 1V7902-4769764
+Industry: Community Organization
+Telephone: tel:+9024769764
+*------------*
+*------------*
+Company name: East Preston Day Care Centre
+Description: We are a non-profit organization with the main goal to nurture & support families in our region & be
+Location: 1799 Highway 7 - Halifax, NSB2Z 1E9902-4620054
+Industry: Community Organization
+Telephone: tel:+9024620054
+*------------*
+*------------*
+Company name: Roofs By Lloyd
+Description: We take pride in all aspects of roofing, & we are the solution for quick, efficient & transparent re
+Location: 59 Beaverlake Drive - Halifax, NSB4B 1N3902-4426625
+Industry: Home Improvement
+Telephone: tel:+9024426625
+*------------*
+*------------*
+Company name: The Bin Doctor LTD
+Description: We are pioneers in the recycling industry providing user friendly solutions for consumers who want t
+Location: 97 Joseph Zatzman - Halifax, NSB3B 1N3902-4627468
+Industry: Home Improvement
+Telephone: tel:+9024627468
+*------------*
+*------------*
+Company name: Carvery's Construction
+Description: We have the solution for all your commercial, industrial & residential needs such as plumbing, elect
+Location: 6 Ralston Ave - Halifax, NSB3B 1H7902-4632513
+Industry: Home Improvement
+Telephone: tel:+9024632513
+*------------*
+*------------*
+Company name: NDS Property Services
+Description: Whether you are landscaping a new property, building a fence or deck, lawn care & maintenance, snow
+Location: 6 Beacon Street - Halifax, NSB2Y 1Y2902-8180708
+Industry: Home Improvement
+Telephone: tel:+9028180708
+*------------*
+*------------*
+Company name: Black Business Initiative
+Description: BBI is committed to growing the Black presence in a diverse range of business sectors including high
+Location: 1660 Hollis Street,  Suite 910 - Halifax, NSB3J 1V7902-4268683
+Industry: Marketing & Creative
+Telephone: tel:+9024268683
+*------------*
+*------------*
+Company name: Africville Museum
+Description: The exhibits within the Museum invite visitors to walk through the history of Africville, from thriv
+Location: 5795 Africville Rd - Halifax, NSB3K 2R9902-4221116
+Industry: Community Organization
+Telephone: tel:+9024221116
+*------------*
+*------------*
+Company name: BCC
+Description: Black Cultural Centre for Nova Scotia is a museum & cultural gathering place where the history of NS
+Location: 10 Cherry Brook Road - Halifax, NSB2Z 1A8902-4346223
+Industry: Community Organization
+Telephone: tel:+9024346223
+*------------*
+*------------*
+Company name: DBDLI
+Description: We create educational change & genuine opportunities for learners & communities of African ancestry
+Location: 5450 Cornwallis Street - Halifax, NSB3K 1A9902-407-3200
+Industry: Training & Education
+Telephone: tel:+902407-3200
+*------------*

@@ -1,0 +1,180 @@
+*------------*
+Company name: PersonalBanker Canada
+Description: Tax Reviews
+Location: 475 Howe St, Vancouver, BC - Vancouver, BC V6C 2B3 800-465-1563
+Industry: Financial
+*------------*
+*------------*
+Company name: BURST! Creative Group
+Description: THINK BIG - BE BOLD.
+Location: #206-26 Lorne Mews New Westminster, BC V3M 3L7, Canada - New Westminster, BC V3M 3L7 604-6628 778
+Industry: Marketing & Creative
+*------------*
+*------------*
+Company name: Vancoders
+Description: "VanCoders Website Design company in Vancouver Canada, Vancouver web design and internet marketing c
+Location: 15457 82 ave - Surrey, BCv3s 2k8 604-3650565
+Industry: Automotive & Transportation
+*------------*
+*------------*
+Company name: Pest Control Richmond
+Description: ASM Pest Control is a leading pest extermination company located in the Lower Mainland, BC.
+Location: 15581 89 Ave - Surrey, BC V3R 0R3 604-5895403
+Industry: Home Improvement
+*------------*
+*------------*
+Company name: Dorciaweb
+Description: Web design and development agency in Metro Vancouver
+Location: 8450 204 Street - Langley, BC V2Y 2C2 236-7779696
+Industry: Web Design & Development
+*------------*
+*------------*
+Company name: Ask Datatech Canada Inc
+Description: Data Management Services, Lead Generation & Email Database Creating
+Location: 7972 126A Street - Surrey, BC V3W 7J9
+Industry: Services
+*------------*
+*------------*
+Company name: Artis Dental Centre
+Description: 
+Location: 523 6th St New Westminster - New Westminster, BC V3L 3B9
+Industry: Health & Fitness
+*------------*
+*------------*
+Company name: London Alexander
+Description: 
+Location: 1106 E 3rd Street - North Vancouver, BC V7J 1B8 604-6716252
+Industry: Fashion & Retail
+*------------*
+*------------*
+Company name: Elbo Jamaican Patties
+Description: Jamaican classics — and creative twists on familiar favourites — side by side. Handmade, with love.
+Location: 1370 east Georgia st - Vancouver, BC V5L 2A8 604-340-7043
+Industry: Food & Hospitality
+*------------*
+*------------*
+Company name: Kasandy
+Description: We are a fair trade store, where customers can buy handmade products made by artisans in Kenya
+Location: 1660 Duranleau Stx - Vancouver, BC V6H 3Y1 604-331-8101
+Industry: Fashion & Retail
+*------------*
+*------------*
+Company name: Ice Kol Kut
+Description: ICE KOL KUT is a multifaceted Barbershop that specialize in Grooming and overall Haircare.
+Location: 2709 Commercial Drive - Vancouver, BC V5N 4C5 604-568-5052
+Industry: Beauty
+*------------*
+*------------*
+Company name: Devi Arts Collective Jewelry
+Description: Woman-led, handmade ethical jewelry made in Vancouver.
+Location: Online - Vancouver, BC
+Industry: Fashion & Retail
+*------------*
+*------------*
+Company name: Esquimalt Dental
+Description: Are you looking for a dentist in Victoria? At Esquimalt Dental, our dentist near you in Esquimalt pr
+Location: 1230 Esquimalt Rd, - Victoria, BC V9A 3N8
+Industry: Health & Fitness
+*------------*
+*------------*
+Company name: MEK Earth & Environmental Inc.
+Description: MEK is a registered Canadian consulting firm dedicated to the provision of hydrogeological and envir
+Location: Unit 202 15388 24th Ave. - Surrey, BC V4A2J2 778-2331090
+Industry: Conseil et coaching
+*------------*
+*------------*
+Company name: Pebbles & Piaget Early Learning
+Description: High-quality care and education for children between the ages of 10 months and 5 years.
+Location: 3550 Kingsway - Vancouver, BC V5R 5X4 604-620-3121
+Industry: Community Organization
+*------------*
+*------------*
+Company name: Okoko Cosmetiques
+Description: Okoko cosmetiques is a luxury skincare brand located in Vancouver, Canada. We offer natural luxury s
+Location: OKOKO COSMETIQUES INC.162 Powell Street (Store), - Vancouver, BC V6A 1G1 604-4 236000
+Industry: Beauty
+*------------*
+*------------*
+Company name: BragDeal Inc.
+Description: A web design company in vancouver that provides high level websites. We convert traffic into paying 
+Location: #3103-688 Abbott St. V6B 0B9 - Vancouver, BC V6B 4Z8
+Industry: Services
+*------------*
+*------------*
+Company name: Lit Lamps Digital
+Description: 
+Location: Unit 1, 10318 Whalley Blvd - Surrey, BC V3J 2V2
+Industry: Home Improvement
+*------------*
+*------------*
+Company name: dasleatherproductions
+Description: 
+Location: 766 Foster Ave - Barrière, BC A1A 1A1
+Industry: Fashion & Retail
+*------------*
+*------------*
+Company name: Bestar Steel Co.,Ltd
+Description: 
+Location: No.9 Xiangfuzhong Road - Abbotsford, BC 731-88739521
+Industry: Manufacturing
+*------------*
+*------------*
+Company name: Naama Beauty
+Description: Online store selling eco luxury hair and skin care brands for the BIPOC community
+Location: 55 Water St - Vancouver, BC V6B1A1 866-373-1079
+Industry: Beauty
+*------------*
+*------------*
+Company name: EM's Esthetics
+Description: Em's Esthetics is Vancouver's reputed Beauty Spa providing various beauty services for both men and 
+Location: 212-2233 Burrard Street, Vancouver, BC V6J 3H9 - Vancouver, BC V6J 3H9 604-8053869
+Industry: Beauty
+*------------*
+*------------*
+Company name: Urban Machina
+Description: There are an astounding number of choices and things to consider while buying an electric scooter. T
+Location: #231-1868 Glen Drive - Vancouver, BC V6A4K4 604-6950122
+Industry: Sports
+*------------*
+*------------*
+Company name: ASM Pest Control
+Description: ASM Pest Control is a leading pest extermination company located in the Lower Mainland, BC.
+Location: 15581 89 Ave, Surrey, BC V3R 0R3, Canada - Surrey, BC V3R 0R3 604-5895403
+Industry: Home Improvement
+*------------*
+*------------*
+Company name: mykush
+Description: 
+Location: Victoria, BC - Victoria, BC V8P 1A1
+Industry: Health & Fitness
+*------------*
+*------------*
+Company name: XYZ Construction and Renovation Group
+Description: XYZ Construction and Renovation Group Painting architects are testified for professionalism and use 
+Location: 4300 N Fraser Way, Burnaby BC - Burnaby, BC V5J 5J8
+Industry: Home Improvement
+*------------*
+*------------*
+Company name: EOK innovations Inc
+Description: EOK Innovations  based in British Columbia has in the past 15years been helping clients to develop p
+Location: 2507 Platinum Lane, - Coquitlam, BC V3E 3L1
+Industry: Technology
+*------------*
+*------------*
+Company name: Tommie's Jerk
+Description: 
+Location: 5337 180 street - Surrey, BC V3S4K5 604-4400261
+Industry: Food & Hospitality
+*------------*
+*------------*
+Company name: Sam Heller Vancouver Real Estate
+Description: Sam Heller Vancouver Realtor is a real estate company that provides the service of finding the perfe
+Location: 2490 Birch St #110, Vancouver, BC V6H3X9, Canada - Vancouver, BC V6H3X9
+Industry: Real Estate
+*------------*
+*------------*
+Company name: Monday May Jewelry
+Description: Monday May Jewelry is an Afro-Indigenous jewelry co. based in Vancouver, Canada.
+Location: 205-810 Quayside Drive - New Westminster, BC V3M 3P6
+Industry: Fashion & Retail
+*------------*

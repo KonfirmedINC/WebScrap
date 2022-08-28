@@ -1,0 +1,18 @@
+*------------*
+Company name: Healthier Pet
+Description: Our natural ingredients offer a wellness solution, remedying many of the common ailments our pets fa
+Location: 91 Church Rd - Conception Bay South, NL A1X 6V5
+Industry: Services
+*------------*
+*------------*
+Company name: Elevate Athletic Development
+Description: ELEVATE Athletic Development is a Canadian clothing brand geared towards inspiring others to become
+Location: St. John's, Newfoundland Labrador - St. John's, NL
+Industry: Fashion & Retail
+*------------*
+*------------*
+Company name: Afro Kitchen NL
+Description: We are an African Kitchen offering a variety of African meals, from our special tasty Jollof rice to
+Location: 282 Torbay Rd - St. John's, NL A1A 4E1 709-631-0747
+Industry: Food & Hospitality
+*------------*
